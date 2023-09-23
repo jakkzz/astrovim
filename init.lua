@@ -19,9 +19,9 @@ return {
 
   -- Set colorscheme to use
   -- colorscheme = "astrodark",
-  -- colorscheme = "tokyonight-night",
+  colorscheme = "tokyonight-night",
   -- colorscheme = "kanagawa",
-  colorscheme = "rose-pine",
+  -- colorscheme = "rose-pine",
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
